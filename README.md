@@ -2,18 +2,28 @@
 
 # CARD SERVICE DEPARTMENT
 ## TOP ASIA-MEMBER CARD SERVICE
-### PRE-MEMBER CARD PERIOD
+### PRE-MEMBER CARD PERIOD { 09/25 }
 
-- Bulleted
-- List
+- HEAD OFFICE (KYN)
+- Pre-Membership Card List
+# CARD NUMBERS 
+## 01-09-2020,TUE{ON}
+1. 325145
+2. 152466
+3. 453363
+4. 172663
+5. 070021
+6. 152435
+7. 115734
+8. 077139
+9. 033394
+10. 167439
+11. 281669
 
-1. Numbered
-2. List
+## 02-09-2020,WED{ON}
+12. 075592
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
