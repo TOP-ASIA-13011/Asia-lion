@@ -3,11 +3,11 @@
 ## TOP ASIA-MEMBER CARD SERVICE
 ### PRE-MEMBER CARD PERIOD
 
-- Bulleted
-- List
+- Card Numbers List
+- Only-Number
 
-1. Numbered
-2. List
+1. 000000
+2. 000000
 
 **Bold** and _Italic_ and `Code` text
 
